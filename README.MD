@@ -55,14 +55,14 @@ https://github.com/user-attachments/assets/9aa652ac-d4bd-4202-8dfb-2de9ad3cc54a
 - WinForms library configured in your Visual Studio environment.
 
 # Getting Started
-
+ 
 1. **Clone the Repository**
-
+ 
    ```bash
    cd "Preferred Directory"
    git clone https://github.com/mohamedelziat50/MediaPlayer-MIU.git
    ```
-
+ 
 2. **Open the Solution**
    Open `MediaPlayer-MIU.sln` in Visual Studio.
 
